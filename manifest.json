@@ -1,0 +1,15 @@
+{
+  "name": "Graphing Calculator",
+  "short_name": "GraphCalc",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#00ffff",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxjaXJjbGUgY3g9Ijk2IiBjeT0iOTYiIHI9Ijk2IiBmaWxsPSIjMDBmZmZmIi8+CjxwYXRoIGQ9Ik0xMjAgMTI1QzEyMCAxMzEuMTYgMTE0LjE2IDEzNSAxMDggMTM1SDg0Qzc3Ljg0IDEzNSA3MiAxMzEuMTYgNzIgMTI1VjEwNUM3MiA4OC44NCA3Ny44NCA4NSA4NCA4NUgxMDhDMTIuMTYgODUgMTIwIDg4Ljg0IDEyMCAxMDVWMTI1Wk04NCAxMjVIMTA4VjEwNUg4NFYxMjVaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
