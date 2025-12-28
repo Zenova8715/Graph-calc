@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Mobile Graph Plotter</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+    <h2>Graph Plotter</h2>
+    <input id="xInput" placeholder="X values (comma separated)">
+    <input id="yInput" placeholder="Y values (comma separated)">
+    <button onclick="plot()">Plot</button>
+    <canvas id="chart" width="350" height="250"></canvas>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
